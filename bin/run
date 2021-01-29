@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+MusicLibraryController.new.call
